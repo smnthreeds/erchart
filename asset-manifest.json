@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/erchart/static/css/main.f9c67ae1.chunk.css",
-    "main.js": "/erchart/static/js/main.ed3a9c23.chunk.js",
-    "main.js.map": "/erchart/static/js/main.ed3a9c23.chunk.js.map",
+    "main.js": "/erchart/static/js/main.18cb2b00.chunk.js",
+    "main.js.map": "/erchart/static/js/main.18cb2b00.chunk.js.map",
     "runtime~main.js": "/erchart/static/js/runtime~main.3154189b.js",
     "runtime~main.js.map": "/erchart/static/js/runtime~main.3154189b.js.map",
     "static/js/2.0ce75fb3.chunk.js": "/erchart/static/js/2.0ce75fb3.chunk.js",
     "static/js/2.0ce75fb3.chunk.js.map": "/erchart/static/js/2.0ce75fb3.chunk.js.map",
     "index.html": "/erchart/index.html",
-    "precache-manifest.44001d7590eeb8d9053768a7767924eb.js": "/erchart/precache-manifest.44001d7590eeb8d9053768a7767924eb.js",
+    "precache-manifest.581e58af57b615b8432e541616e8f6dd.js": "/erchart/precache-manifest.581e58af57b615b8432e541616e8f6dd.js",
     "service-worker.js": "/erchart/service-worker.js",
     "static/css/main.f9c67ae1.chunk.css.map": "/erchart/static/css/main.f9c67ae1.chunk.css.map",
     "static/media/logo.svg": "/erchart/static/media/logo.5d5d9eef.svg"
