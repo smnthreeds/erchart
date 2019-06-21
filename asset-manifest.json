@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/erchart/static/css/main.f9c67ae1.chunk.css",
+    "main.js": "/erchart/static/js/main.05c7cc64.chunk.js",
+    "main.js.map": "/erchart/static/js/main.05c7cc64.chunk.js.map",
+    "runtime~main.js": "/erchart/static/js/runtime~main.3154189b.js",
+    "runtime~main.js.map": "/erchart/static/js/runtime~main.3154189b.js.map",
+    "static/js/2.6cff5236.chunk.js": "/erchart/static/js/2.6cff5236.chunk.js",
+    "static/js/2.6cff5236.chunk.js.map": "/erchart/static/js/2.6cff5236.chunk.js.map",
+    "index.html": "/erchart/index.html",
+    "precache-manifest.320fb5e41a10c29de33794e84f3eb31a.js": "/erchart/precache-manifest.320fb5e41a10c29de33794e84f3eb31a.js",
+    "service-worker.js": "/erchart/service-worker.js",
+    "static/css/main.f9c67ae1.chunk.css.map": "/erchart/static/css/main.f9c67ae1.chunk.css.map",
+    "static/media/logo.svg": "/erchart/static/media/logo.5d5d9eef.svg"
+  }
+}
