@@ -32,7 +32,7 @@ class App extends React.Component {
            user.push(res.data.result[i].from);
         }
         for (var i = 0; i < res.data.result.length; i++) {
-          timestamp.push(moment.unix(res.data.result[i].timeStamp).utc().format('dddd, MMMM Do, YYYY h:mm:ss A'));
+          timestamp.push(moment.unix(res.data.result[i].timeStamp).utc().format('dddd, MMMM Do'));
        }
         for (var i = 0; i < res.data.result.length; i++) {
           fee.push(parseInt(res.data.result[i].gasPrice));
